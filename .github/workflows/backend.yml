@@ -37,5 +37,5 @@ jobs:
       uses: azure/webapps-deploy@v2
       with:
         app-name: 'lzsepic66'  # Replace with your Azure Web App name
-        publish-profile: ${{ secrets.azure_backend }}
+        publish-profile: ${{ secrets.AZURE_BACKEND }}
         package: backend/publish_output
