@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 ﻿<Project>
   <Import Project="..\buildMultiTargeting\backend.props" />
+=======
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\backend.props" />
+>>>>>>> 5fb5752d3bd843f55b9bd6c6ac7a02c3321b4dbc
 </Project>

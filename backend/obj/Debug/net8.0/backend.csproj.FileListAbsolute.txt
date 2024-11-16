@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\appsettings.json
 C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\backend.exe
@@ -32,3 +33,39 @@ C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\refint\backend.dll
 C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\backend.pdb
 C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\ref\backend.dll
+=======
+C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\appsettings.json
+C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\backend.exe
+C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\backend.dll
+C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\epic66\Documents\Azure\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\backend.sourcelink.json
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\backend.csproj.Up2Date
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\backend.dll
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+C:\Users\epic66\Documents\Azure\backend\obj\Debug\net8.0\ref\backend.dll
+>>>>>>> 5fb5752d3bd843f55b9bd6c6ac7a02c3321b4dbc
