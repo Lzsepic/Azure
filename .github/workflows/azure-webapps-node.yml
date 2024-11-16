@@ -44,7 +44,7 @@ jobs:
         inlineScript: |
           az storage blob upload-batch \
             --account-name azuretraining66 \
-            --account-key ${{ secrets.AZURE_STORAGE_ACCOUNT_KEY }} \
+            --account-key ${{ secrets.AZURETRAINING66 }} \
             --destination '$web' \
             --source frontend/dist \
             --overwrite
